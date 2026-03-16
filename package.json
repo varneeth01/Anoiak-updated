@@ -2,10 +2,12 @@
   "name": "workspace",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@10.6.5"
-},
-  "private": true,
+  "packageManager": "pnpm@10.6.5",
+  "scripts": {
+    "build": "your-build-command"
+  },
   "devDependencies": {
     "typescript": "~5.9.2",
     "prettier": "^3.8.1"
+  }
 }
