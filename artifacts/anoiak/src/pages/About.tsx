@@ -8,7 +8,7 @@ export default function About() {
     <Layout>
       <PageSEO 
         title="About Us" 
-        description="Discover the story behind Anoiak and our founder Varneeth Varma Nandimanddalam's relentless pursuit of excellence." 
+        description="Discover the story behind Anoiak and our founder Varneeth Varma Nandimandalam's relentless pursuit of excellence." 
       />
 
       {/* Page Header */}
@@ -34,12 +34,12 @@ export default function About() {
               <div className="relative aspect-[3/4] overflow-hidden luxury-border">
                 <img 
                   src="/images/13211802-5445-4e90-ae0c-744e769ef6d1.jpeg&auto=format&fit=crop" 
-                  alt="Varneeth Varma Nandimanddalam" 
+                  alt="Varneeth Varma Nandimandalam" 
                   className="w-full h-full object-cover scale-105 hover:scale-100 transition-transform duration-[2000ms] grayscale"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent" />
                 <div className="absolute bottom-12 left-12 right-12">
-                  <h3 className="text-3xl md:text-4xl font-serif text-white mb-4 leading-tight">Varneeth Varma<br/>Nandimanddalam</h3>
+                  <h3 className="text-3xl md:text-4xl font-serif text-white mb-4 leading-tight">Varneeth Varma<br/>Nandimandalam</h3>
                   <p className="text-primary tracking-[0.3em] uppercase text-xs font-medium">Founder & Principal Consultant</p>
                 </div>
               </div>
@@ -56,7 +56,7 @@ export default function About() {
               
               <div className="space-y-10 text-muted-foreground font-light leading-relaxed text-xl">
                 <p>
-                  Varneeth Varma Nandimanddalam established Anoiak after witnessing a critical gap in the market: traditional agencies offered generic templates, while pure consultancies lacked execution capability. 
+                  Varneeth Varma Nandimandalam established Anoiak after witnessing a critical gap in the market: traditional agencies offered generic templates, while pure consultancies lacked execution capability. 
                 </p>
                 <p>
                   Anoiak was designed to be the hybrid exception. An elite advisory firm that not only architects the roadmap for market dominance but meticulously oversees its deployment. 
