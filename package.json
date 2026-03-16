@@ -4,7 +4,7 @@
   "private": true,
   "packageManager": "pnpm@10.6.5",
   "scripts": {
-    "build": "your-build-command"
+    "build": "cd artifacts/anoiak && pnpm run build"
   },
   "devDependencies": {
     "typescript": "~5.9.2",
