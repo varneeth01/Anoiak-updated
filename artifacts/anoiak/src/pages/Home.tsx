@@ -11,7 +11,7 @@ export default function Home() {
     <Layout>
       <PageSEO 
         title="Elevating Visionary Brands" 
-        description="Anoiak is a premier business consultancy founded by Varneeth Varma Nandimanddalam, specializing in performance marketing and elite business strategy." 
+        description="Anoiak is a premier business consultancy founded by Varneeth Varma Nandimandalam, specializing in performance marketing and elite business strategy." 
       />
       
       {/* 1. HERO SECTION */}
@@ -56,7 +56,7 @@ export default function Home() {
             <div className="inline-flex items-center gap-4 mt-8 opacity-60">
               <div className="h-[1px] w-16 bg-primary"></div>
               <span className="text-primary tracking-[0.3em] text-xs font-medium uppercase">
-                Founded by Varneeth Varma Nandimanddalam
+                Founded by Varneeth Varma Nandimandalam
               </span>
             </div>
           </AnimatedSection>
@@ -99,7 +99,7 @@ export default function Home() {
               <div className="relative aspect-[3/4] overflow-hidden luxury-border">
                 <img 
                   src="/images/13211802-5445-4e90-ae0c-744e769ef6d1.jpeg" 
-                  alt="Varneeth Varma Nandimanddalam" 
+                  alt="Varneeth Varma Nandimandalam" 
                   className="w-full h-full object-cover scale-105 hover:scale-100 transition-transform duration-[2000ms] grayscale hover:grayscale-0"
                 />
                 <div className="absolute inset-0 border border-white/10 m-6 pointer-events-none mix-blend-overlay transition-all duration-1000"></div>
@@ -113,7 +113,7 @@ export default function Home() {
               </h2>
               <h3 className="text-4xl md:text-5xl lg:text-7xl font-serif mb-8 md:mb-10 leading-[1.1] tracking-tight">
                 Led by <br/>
-                <span className="text-primary italic break-words">Varneeth Varma<br/> Nandimanddalam</span>
+                <span className="text-primary italic break-words">Varneeth Varma<br/> Nandimandalam</span>
               </h3>
               <p className="text-xl text-muted-foreground font-light leading-relaxed mb-8">
                 Anoiak wasn't built on conventional wisdom. It was founded on a singular obsession: achieving measurable, transformative results for businesses that refuse to settle for mediocrity.
