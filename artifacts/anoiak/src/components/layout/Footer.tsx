@@ -85,7 +85,7 @@ export function Footer() {
           </p>
           <div className="flex gap-6">
             <span className="text-muted-foreground/60 text-xs tracking-widest uppercase">
-              Founded by Varneeth Varma Nandimanddalam
+              Founded by Varneeth Varma Nandimandalam
             </span>
           </div>
         </div>
