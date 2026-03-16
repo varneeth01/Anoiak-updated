@@ -33,7 +33,7 @@ export default function About() {
             <AnimatedSection direction="right" className="lg:col-span-6 relative">
               <div className="relative aspect-[3/4] overflow-hidden luxury-border">
                 <img 
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1887&auto=format&fit=crop" 
+                  src="/artifacts/anoiak/public/images/13211802-5445-4e90-ae0c-744e769ef6d1.jpeg&auto=format&fit=crop" 
                   alt="Varneeth Varma Nandimanddalam" 
                   className="w-full h-full object-cover scale-105 hover:scale-100 transition-transform duration-[2000ms] grayscale"
                 />
