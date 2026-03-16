@@ -23,7 +23,7 @@ export default function Contact() {
     <Layout>
       <PageSEO 
         title="Contact" 
-        description="Initiate a dialogue with Anoiak. Request a consultation with Varneeth Varma Nandimanddalam." 
+        description="Initiate a dialogue with Anoiak. Request a consultation with Varneeth Varma Nandimandalam." 
       />
 
       <section className="pt-32 pb-16 md:pt-44 md:pb-24 lg:pt-56 lg:pb-32 bg-background relative border-b border-white/5 overflow-hidden">
