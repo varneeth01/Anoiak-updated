@@ -1,0 +1,401 @@
+Build an ultra-premium, elite, luxury-modern website for a company named “Anoiak”.
+
+Company details:
+- Brand name: Anoiak
+- Founder: Varneeth Varma Nandimanddalam
+- Services:
+  1. Business Consultancy
+  2. Personal Branding
+  3. Business Advice
+  4. Marketing
+  5. Performance Marketing
+- Email: varneethvarma.n@gmail.com
+- Phone: +91 7981399132
+- Location: Hoskote, Bengaluru, Karnataka, India
+
+Core objective:
+Create a website that feels extremely premium, strategic, sharp, luxurious, founder-led, and conversion-focused. It must not look cheap, generic, startup-basic, or template-like. It should feel like a world-class consultancy and growth partner for ambitious founders, businesses, and professionals.
+
+This website should feel like a blend of:
+- luxury consulting firm
+- modern personal brand agency
+- elite strategy house
+- high-end performance marketing studio
+
+The final visual impression must feel:
+- expensive
+- powerful
+- elegant
+- minimal
+- intelligent
+- global
+- trustworthy
+- polished
+- cinematic
+- high-converting
+
+Tech requirements:
+- Next.js 14+ App Router
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Shadcn/ui
+- Lucide icons
+- Fully responsive
+- Production-ready architecture
+- Clean reusable components
+- SEO optimized
+- Accessibility optimized
+- Fast loading and clean code
+
+Do NOT create a basic agency site.
+Do NOT use loud startup colors.
+Do NOT create crowded layouts.
+Do NOT overuse gradients.
+Do NOT make it playful.
+Do NOT make it look like a cheap freelancer portfolio.
+Make it look premium enough that high-value clients immediately feel trust.
+
+==================================================
+DESIGN SYSTEM DIRECTION
+==================================================
+
+Create a luxury visual language with:
+- deep charcoal / obsidian / black backgrounds
+- warm ivory / soft white typography
+- muted champagne gold / elegant bronze accents
+- subtle glassmorphism only if refined
+- high-end spacing
+- oversized editorial typography
+- cinematic section reveals
+- smooth premium motion
+- soft shadow depth
+- tasteful borders
+- layered gradients used minimally
+- sophisticated grid layout
+- large breathing space
+- refined card surfaces
+- elegant rounded corners
+- premium button interactions
+
+The site should visually feel inspired by:
+- luxury consulting brands
+- premium architecture studios
+- world-class private equity websites
+- elite branding agencies
+- Apple-level polish with richer luxury tone
+
+Typography direction:
+- strong editorial hero headings
+- confident subheadings
+- premium body text spacing
+- balanced line length
+- luxury serif + sans-serif pairing if appropriate
+- visually powerful heading hierarchy
+
+Motion direction:
+- subtle, refined, expensive motion
+- smooth fade-up reveals
+- staggered card entrances
+- elegant parallax or depth effects
+- premium hover states
+- soft transitions
+- no flashy gimmicks
+- motion must increase perceived luxury
+
+==================================================
+BRAND POSITIONING
+==================================================
+
+Anoiak should be positioned as:
+A premium consultancy and growth partner helping founders, brands, and businesses build stronger positioning, personal presence, market clarity, and measurable growth.
+
+The tone must communicate:
+- strategic depth
+- premium execution
+- founder trust
+- transparency
+- confidence without noise
+- sophistication without arrogance
+- authority without being robotic
+
+Use premium, persuasive copy such as:
+- “Strategy with clarity. Growth with intention.”
+- “Built for ambitious brands and individuals ready to move with direction.”
+- “Consulting, branding, and performance built around outcomes.”
+- “Anoiak brings strategic thinking, refined positioning, and measurable momentum.”
+- “Where business clarity meets modern growth.”
+- “Premium guidance for brands that want more than average results.”
+
+==================================================
+SITE STRUCTURE
+==================================================
+
+Create the following pages and sections:
+
+1. HOME PAGE
+The homepage must feel world-class and premium.
+
+Include:
+- luxury sticky navbar
+- immersive hero section
+- premium trust strip
+- founder-led brand positioning section
+- services showcase
+- premium why choose us section
+- signature methodology/process section
+- no-upfront-payment trust section
+- premium results/testimonial placeholders
+- FAQ accordion
+- high-conversion CTA section
+- elegant footer
+
+Hero section requirements:
+- large editorial-style headline
+- premium subheading
+- two CTA buttons:
+  - Book a Consultation
+  - Explore Services
+- founder credibility mention
+- subtle luxury background treatment
+- premium motion
+- trust-focused layout
+
+Hero copy examples:
+- “Build a Brand That Commands Attention.”
+- “Strategic consultancy, personal branding, and performance marketing for ambitious growth.”
+- “Anoiak helps founders, professionals, and businesses grow with clarity, positioning, and execution.”
+- “Premium strategy. Refined branding. Measurable momentum.”
+
+2. ABOUT PAGE / SECTION
+This section must feel deeply premium and personal.
+
+Include:
+- founder introduction with elegant layout
+- professional founder spotlight card
+- founder name shown beautifully:
+  Varneeth Varma Nandimanddalam
+- story-driven brand narrative
+- mission, vision, values
+- premium trust-building copy
+- why Anoiak exists
+- commitment to transparency and outcomes
+
+The founder section should feel authoritative, polished, and human.
+
+3. SERVICES PAGE / SECTION
+Create premium service blocks/cards for:
+- Business Consultancy
+- Personal Branding
+- Business Advice
+- Marketing
+- Performance Marketing
+
+Each service must include:
+- premium headline
+- short elite description
+- ideal client type
+- key outcomes / benefits
+- CTA button
+- refined iconography
+- hover interactions
+
+Service descriptions must sound premium, strategic, and outcome-focused.
+
+4. WHY CHOOSE ANOIAK
+Create a premium comparison-style section that explains why Anoiak stands out.
+
+Include reasons like:
+- Founder-led strategic engagement
+- Personalized, non-generic approach
+- Real business thinking, not surface-level marketing
+- Premium brand positioning mindset
+- Performance-focused execution
+- Trust-first working model
+- Quality over hype
+- Clarity before scaling
+
+This section should feel persuasive and elegant.
+
+5. TRUST / SIGNATURE OFFER SECTION
+Create a highly premium highlighted quote section.
+
+Must include this exact trust message prominently:
+“We don’t ask for upfront money. See our work, then decide to pay.”
+
+Also add refined supporting lines like:
+- “Trust should be built through results.”
+- “We prefer proof over promises.”
+- “Our work comes first. Payment follows confidence.”
+- “A transparent model for clients who value real outcomes.”
+
+This section must look luxurious and emotionally persuasive, not cheap or salesy.
+
+6. CONTACT PAGE
+Build a fully working premium contact page.
+
+Must include:
+- elegant contact hero section
+- premium contact form
+- Name field
+- Email field
+- Phone field
+- Service selection dropdown
+- Message textarea
+- Submit button
+- validation
+- loading state
+- success state
+- error state
+- server action or API route
+- production-ready structure
+
+Contact details section:
+- email card
+- phone card
+- location card
+- founder card
+- business hours
+- map placeholder for Hoskote, Bengaluru
+
+Also include:
+- WhatsApp quick contact button
+- mobile click-to-call
+- email quick action
+
+The page should feel luxurious, premium, reassuring, and easy to convert from.
+
+==================================================
+SEO REQUIREMENTS
+==================================================
+
+Implement strong premium SEO foundations:
+- metadata for every page
+- title tags
+- meta descriptions
+- canonical tags
+- Open Graph
+- Twitter cards
+- structured schema markup:
+  - Organization
+  - ProfessionalService
+  - LocalBusiness
+  - Person for founder if relevant
+- semantic HTML
+- proper heading structure
+- internal linking
+- sitemap
+- robots.txt
+- local SEO references for Hoskote, Bengaluru
+- service-focused SEO copy
+- founder trust signals
+- fast page speed
+- optimized image handling
+
+Important:
+Do not make false claims like “guaranteed number one on Google.”
+Instead, create strong technical SEO, local SEO, content SEO, and conversion-focused copy for maximum ranking potential.
+
+Target keyword themes naturally:
+- business consultancy in Bengaluru
+- branding consultant in Bengaluru
+- personal branding services Bengaluru
+- marketing services in Hoskote
+- performance marketing consultant Bengaluru
+- founder branding consultant Karnataka
+- premium business consultancy Bengaluru
+
+==================================================
+UI/UX LUXURY FEATURES
+==================================================
+
+Add the following:
+- transparent navbar that becomes richer on scroll
+- premium mobile menu
+- floating WhatsApp contact button
+- sticky mobile CTA
+- luxury service cards
+- editorial split layouts
+- subtle section dividers
+- large quote sections
+- testimonial slider placeholders
+- FAQ accordion
+- scroll-to-top button
+- elegant footer
+- premium CTA ribbons
+- trust badges
+- refined hover interactions
+- beautiful empty states and form states
+- polished microinteractions
+
+==================================================
+CONTENT STYLE
+==================================================
+
+Write all content in a premium agency tone:
+- sophisticated
+- strategic
+- refined
+- modern
+- sharp
+- persuasive
+- human
+- high-trust
+
+Avoid:
+- generic filler copy
+- cheap marketing language
+- overhyped text
+- spammy SEO stuffing
+- childish phrasing
+- too much corporate jargon
+
+Make every paragraph feel crafted, premium, and intentional.
+
+==================================================
+COMPONENT STRUCTURE
+==================================================
+
+Generate reusable components such as:
+- Navbar
+- HeroSection
+- TrustStrip
+- FounderSection
+- AboutSection
+- ServicesGrid
+- WhyChooseUs
+- SignatureQuoteBanner
+- MethodologySection
+- TestimonialsSection
+- FAQSection
+- ContactForm
+- ContactCards
+- Footer
+- SEO schema utilities
+
+==================================================
+ADVANCED QUALITY BAR
+==================================================
+
+The final output must feel:
+- like a real elite consulting brand
+- not like an AI-generated template
+- visually premium enough for high-ticket clients
+- modern enough for portfolio showcase
+- polished enough for production
+- emotionally strong enough to convert serious leads
+
+Every section should communicate:
+premium trust, modern intelligence, refined authority, and high-value service quality.
+
+Now generate the complete website with:
+- homepage
+- about section/page
+- services section/page
+- fully working contact page
+- premium luxury UI
+- strong SEO setup
+- refined animations
+- high-end copywriting
+- reusable code structure
+- production-ready implementation

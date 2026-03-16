@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Anoiak — Premium Consultancy"
+version = "1.0.0"
+id = "artifacts/anoiak"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+localPort = 24219
+name = "web"
+paths = ["/"]
+
+[services.development]
+run = "pnpm --filter @workspace/anoiak run dev"
+
+[services.env]
+PORT = "24219"
+BASE_PATH = "/"
+
+[services.production]
+build = ["pnpm", "--filter", "@workspace/anoiak", "run", "build"]
+publicDir = "artifacts/anoiak/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"

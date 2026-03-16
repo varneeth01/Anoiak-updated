@@ -1,0 +1,19 @@
+packages:
+  "framer-motion": "Required for scroll-triggered animations and fluid page transitions"
+  "react-hook-form": "Form state management"
+  "@hookform/resolvers": "Zod validation resolver for forms"
+  "react-helmet-async": "SEO and meta tag management per page"
+  "lucide-react": "Premium iconography"
+
+images:
+  - path: "artifacts/anoiak/public/images/hero-abstract.png"
+    description: "Ultra luxury abstract background, deep obsidian black with very subtle, soft champagne gold light leaks, cinematic, minimalistic, no distracting elements"
+    aspect_ratio: "16:9"
+  - path: "artifacts/anoiak/public/images/logo-mark.png"
+    description: "Minimalist, elegant geometric logo mark for a luxury brand named 'Anoiak', champagne gold color on completely transparent background, high-end fashion or private equity style"
+    aspect_ratio: "1:1"
+
+notes:
+  - This is a frontend-only application. Contact form uses a simulated success state.
+  - Using Framer Motion for high-end cinematic reveal animations.
+  - The design is strictly dark mode (obsidian/ivory/gold).
